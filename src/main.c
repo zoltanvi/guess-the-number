@@ -1,3 +1,6 @@
+/*
+ * 2015.10.08.
+ */
 #include <stdio.h>
 #include <time.h>
 
